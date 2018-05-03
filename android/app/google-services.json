@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045081315849",
+    "firebase_url": "https://decoded-pride-202402.firebaseio.com",
+    "project_id": "decoded-pride-202402",
+    "storage_bucket": "decoded-pride-202402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045081315849:android:c485cc9320b44da6",
+        "android_client_info": {
+          "package_name": "com.sos_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045081315849-8rtmleb8qhso8o06rl4oqdevurdulpk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sos_login",
+            "certificate_hash": "ad704bb37ad8ca137abe76e701ee81c209e988e6"
+          }
+        },
+        {
+          "client_id": "1045081315849-idl6nlp93o4v20qqusspbq7f930rkefp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpN0TgHdSyWxf3SiyJ9_mjDRUyh7PGGug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045081315849-idl6nlp93o4v20qqusspbq7f930rkefp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
